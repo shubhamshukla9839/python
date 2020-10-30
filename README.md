@@ -1,2 +1,2 @@
 # python
-basic programming with some projects 
+basic programming with some interesting projects 
